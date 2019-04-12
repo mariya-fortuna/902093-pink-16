@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/adaptive/16/user/902093).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Сорокин](https://htmlacademy.ru/profile/osorokin).
 
 ---
 
